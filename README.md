@@ -2,7 +2,7 @@
 
 ## Step 1
 ### Node should be installed on system.
-### Typescript should be installed.
+### Typescript must be installed.
 ### Install dependencies ( npm install )
 
 ## Step 2
